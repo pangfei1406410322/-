@@ -7,4 +7,4 @@
 ##原理
   本项目的俄罗斯方块游戏是基于html、css、javascript语言的游戏。
 ##使用说明
-  打开浏览器输入
+  打开浏览器输入网址http://htmlpreview.github.io/?https://github.com/pangfei1406410322/hello/blob/master/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97/index.html，接着按照页面操作说明即可顺利玩游戏了。
